@@ -8,3 +8,4 @@
 * Lab: From Problem to Approach
 * Lab: From Requirements to Collection
 * Lab: From Understanding to Preparation
+* Lab: From Modeling to Evaluation
