@@ -9,3 +9,11 @@
 * Lab: From Requirements to Collection
 * Lab: From Understanding to Preparation
 * Lab: From Modeling to Evaluation
+
+***Python tutorials***
+
+* PY101EN-1-1
+* PY101EN-1-2
+* PY101EN-2-1
+* PY101EN-2-2
+* PY101EN-2-4
