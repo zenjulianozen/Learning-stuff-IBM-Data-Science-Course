@@ -35,3 +35,4 @@
 * PY0101EN-5.4_WorkingWithDifferentFileTypes
 * Final_Assignment Library - Extracting Stock Data Using Python Libraries
 * Final Assignment Webscraping - Extracting Stock Data Using Webscraping
+* Final_Assignment - Stock Analysis Final_Assignment
