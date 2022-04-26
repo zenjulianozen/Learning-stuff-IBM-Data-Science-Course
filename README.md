@@ -33,4 +33,5 @@
 * Simple_API_2__v2 - price chart example
 * WebScraping_Review_Lab
 * PY0101EN-5.4_WorkingWithDifferentFileTypes
-* Final_Assignment Library - Extracting Stock Data Using a Python Library
+* Final_Assignment Library - Extracting Stock Data Using Python Libraries
+* Final Assignment Webscraping - Extracting Stock Data Using Webscraping
