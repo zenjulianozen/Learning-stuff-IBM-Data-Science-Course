@@ -36,3 +36,5 @@
 * Final_Assignment Library - Extracting Stock Data Using Python Libraries
 * Final Assignment Webscraping - Extracting Stock Data Using Webscraping
 * Final_Assignment - Stock Analysis Final_Assignment
+* Final_Assignment Done - Complete Project
+* Final_Assignment HTML export
